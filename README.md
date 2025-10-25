@@ -19,7 +19,7 @@ This repo contains all my daily projects from the [Udemy course by Dr. Angela Yu
 
 ![Progress](https://img.shields.io/badge/Progress-5%25-brightgreen?style=for-the-badge)
 ![Days Completed](https://img.shields.io/badge/Days%20Completed-5%2F100-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=python)
+![Language](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python)
 
 ---
 
