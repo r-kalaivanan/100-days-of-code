@@ -56,14 +56,13 @@ stages = [r'''
 ''']
 
 import random
-
-word_list = ["aardvark", "baboon", "camel"]
+import hangman_words
 
 game = True
 while game:
     print("Welcome to Hangman!")
 
-    word = random.choice(word_list)
+    word = random.choice(hangman_words.word_list)
     dash_string = ['_'] * len(word)
     list_word = list(word)
     print(list_word)
@@ -82,6 +81,7 @@ while game:
             if wrong_count >= 2:
                 print(stages[wrong_count - 1])
             wrong_count -= 1
+            print(f"{wrong_count} lives left!")
 
         if '_' not in dash_string:
             print(f"You've won. Your word {''.join(dash_string)}")
