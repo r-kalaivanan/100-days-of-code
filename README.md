@@ -1,82 +1,59 @@
-# 🐍 100 Days of Code: The Complete Python Pro Bootcamp
+# 100 Days of Code: The Complete Python Pro Bootcamp
 
-Welcome to my **100 Days of Code** journey!  
-This repo contains all my daily projects from the [Udemy course by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/), covering everything from **beginner to professional-level Python development**.
+Welcome to my **100 Days of Code** journey. This repository contains all my daily projects from the [Udemy course by Dr. Angela Yu](https://www.udemy.com/course/100-days-of-code/), covering everything from beginner to professional-level Python development.
 
----
+## Goals
 
-## 🎯 Goals
+- Strengthen Python fundamentals
+- Build 100 real-world mini projects
+- Develop a strong understanding of OOP, APIs, GUIs, Web Development, and Data Science
+- Maintain clean code and use Git version control
+- Build a public portfolio that reflects my growth as a developer
 
-- 💪 Strengthen my **Python fundamentals**
-- 🧩 Build **100 real-world mini projects**
-- 🧠 Develop a strong understanding of **OOP, APIs, GUIs, Web Dev, and Data Science**
-- 🧾 Maintain clean code and use **Git version control**
-- 🚀 Build a **public portfolio** that reflects my growth
-
----
-
-## 📊 Progress
-
-![Progress](https://img.shields.io/badge/Progress-5%25-brightgreen?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-5%2F100-blue?style=for-the-badge)
-![Language](https://img.shields.io/badge/Python-3.11-yellow?style=for-the-badge&logo=python)
-
----
-
-## 📂 Repository Structure
-
+## Repository Structure
+```
 100-days-of-code/
 │
+├── README.md
 ├── Day01_Band_Name_Generator/
-│ ├── main.py
-│ └── README.md
+│   └── main.py
 │
 ├── Day02_Tip_Calculator/
-│ ├── main.py
-│ └── README.md
+│   └── main.py
+│
+├── Day03_Treasure_Island/
+│   └── main.py
 │
 └── ...
+```
 
+Each day's folder contains the project code for that specific challenge.
 
-Each folder contains:
-- `main.py` → the day’s project code  
-- `README.md` → short description, features, and learnings  
+## Topics Covered
 
----
+- Python fundamentals (data types, functions, OOP)
+- Game development (Turtle, Tkinter)
+- Web development (Flask, APIs)
+- Data analysis and visualization
+- Automation and scripting
+- Working with files, CSVs, JSON, and databases
+- Deployment and version control (Git & GitHub)
 
-## 🗓️ Project Tracker
+## Technologies Used
 
-| Day | 🧩 Project | 🧠 Topics Covered | 📈 Status |
-|-----|-------------|------------------|------------|
-| 01 | Band Name Generator | Input/Output, String manipulation | ✅ Completed |
-| 02 | Tip Calculator | Math operations, f-strings | ✅ Completed |
-| 03 | Treasure Island | Conditionals, Game logic | ✅ Completed |
-| 04 | Rock Paper Scissors | Random module, Lists | ✅ Completed |
-| 05 | Password Generator | Loops, Randomization | 🔄 In Progress |
-| ... | ... | ... | ⏳ Upcoming |
+- **Language:** Python 3.11
+- **IDE:** PyCharm
+- **Version Control:** Git & GitHub
 
-✅ **Completed** 🔄 **In Progress** ⏳ **Upcoming**
+## Credits
 
----
+- **Course:** [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- **Instructor:** Dr. Angela Yu
 
-## 🧠 Topics I’ll Cover
+## License
 
-- 🐍 Python fundamentals (data types, functions, OOP)  
-- 🎮 Game development (Turtle, Tkinter)  
-- 🌐 Web development (Flask, APIs)  
-- 📊 Data analysis and visualization  
-- 🧠 Automation and scripting  
-- 🗄️ Working with files, CSVs, JSON, and databases  
-- ☁️ Deployment and version control (Git & GitHub)  
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Credits
-
-- **Course:** [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)  
-- **Instructor:** Dr. Angela Yu  
-- **Tools:** Python 3, PyCharm, Git, GitHub, and ☕ endless coffee
-
----
-
-⭐ **If you find this repo helpful or inspiring, please give it a star!**
+**If you find this repository helpful or inspiring, please consider starring it.**
